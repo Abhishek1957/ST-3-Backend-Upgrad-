@@ -31,6 +31,5 @@ then go to project folder and execute
 ```
    ./mvnw spring-boot:run -Drun.jvmArguments="-Dspring.profiles.active=postgres" -P postgres 
 ```
-You will find your running app at http://localhost:9696/phonebook 
-
+You will find your running app at https://dashboard.heroku.com/apps/st-3-backend-upgrad 
 <a href="https://phone-book01.herokuapp.com">Demo of application deployed on heroku cloud platform</a>
